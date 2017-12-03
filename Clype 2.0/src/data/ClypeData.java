@@ -3,6 +3,7 @@ package data;
 import java.util.Date;
 import java.io.*;
 
+// my test commit
 /**
  * 
  * @author Reece Emero
@@ -21,7 +22,7 @@ public abstract class ClypeData implements Serializable {
 	protected final int SEND_MESSAGE = 3;
 	
 	/**
-	 * Implements Vignère cipher to perform encryption with a key
+	 * Implements Vignï¿½re cipher to perform encryption with a key
 	 * 
 	 * I make the key lower case
 	 * I turn the input string into an array of characters
@@ -66,7 +67,7 @@ public abstract class ClypeData implements Serializable {
 	}
 	
 	/**
-	 * Implements the backwards decryption of the Vignère cipher using the key provided as input
+	 * Implements the backwards decryption of the Vignï¿½re cipher using the key provided as input
 	 * 
 	 * I make the key lower case
 	 * I turn the input string into an array of characters
